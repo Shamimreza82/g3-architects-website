@@ -1,6 +1,8 @@
  /* font work sens */
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat&family=Open+Sans:wght@400;500&family=PT+Serif&family=Poppins&family=Roboto:wght@100&family=Space+Mono&family=Work+Sans:wght@400;500;600;700&display=swap');
 
+
+/* sheard istyle */
 * {
 font-family: 'Work Sans', sans-serif;
 }
@@ -10,7 +12,7 @@ header {
     padding: 50px 240px;
 }
 
-
+/* Nav section start */
 .nav-titel {
     font-weight: 700;
     font-size: 2.8rem;
@@ -25,8 +27,6 @@ nav {
 
 nav > ul {
     display: flex;
-   
-
 }
 
 ul li {
@@ -39,5 +39,12 @@ ul li {
 nav li a {
     text-decoration: none;
     color: #424242;
+}
 
+/* Banner section start */
+
+.bacnner-contan {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
 }
