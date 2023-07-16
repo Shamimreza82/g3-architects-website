@@ -235,9 +235,19 @@ main {
     align-items: center;
 }
 
+/* footer section start */
 
-
-
+.footer-container {
+    max-width: 1440px;
+    height: 100px;
+    border-radius: 8px;
+    background: #FFF4E7;
+    margin: auto;
+    text-align: center;
+    padding-top: 2rem;
+    margin-top: 130px;
+    margin-bottom: 216px;
+}
 
 
 
@@ -287,9 +297,6 @@ main {
     position: static;
     margin-top: 0;
 }
-
-
-
 }
 
 
