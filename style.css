@@ -149,7 +149,6 @@ main {
     padding: 20px;
     margin: 20px 0;
     border-radius: 8px;
-
 }
 
 .feature-head-text {
@@ -157,12 +156,32 @@ main {
     padding-left: 15px;
 }
 
+.years-exprience {
+    width: 342px;
+    height: 200px;
+    border-radius: 8px;
+    background: #FF900E;
+    text-align: center;
+    position: relative;
+    margin-top: -100px;
+}
 
+.years-exprience h1 {
+    text-align: center;
+    color: #FFF;
+    font-size: 4rem;
+    padding-top: 3.5rem;
 
+}
 
+.years-exprience h4 {
+    color: #FFF;
+    font-size: 1.25rem;
+}
 
-
-
+.Features-you-will-photo img {
+    margin-left: 100px;
+}
 
 
 
@@ -193,6 +212,7 @@ main {
 }
      .feature-images img {
           width: 100%;
+
 }
      .features-texts {
      margin-top: 20px;
@@ -200,12 +220,18 @@ main {
 
  .Features-you-will-photo img {
     width: 80%;
+    margin-left: 0;
  }
 
  .feature-common {
     max-width: 400px;
     height: 171px;
  }
+
+.years-exprience {
+    position: static;
+    margin-top: 0;
+}
 
 
 }
